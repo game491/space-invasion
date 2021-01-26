@@ -3120,7 +3120,7 @@ scene.setBackgroundImage(img`
     `)
 pause(2000)
 game.showLongText("Press A to continue.", DialogLayout.Bottom)
-game.showLongText("Instructions:Use the arrow keys to control your spaceship.Use the A button to shoot.Shoot at the enemies to win points.Don't touch red enemies,as they give you an instant game over and can't be defeated.Collect fuel cans to earn extra lives.Each level lasts 2 minutes.Remember,you only get 3 lives.Good luck!", DialogLayout.Bottom)
+game.showLongText("Instructions:Use the arrow keys to control your spaceship.Use the A button to shoot.Shoot at the enemies to win points.Don't touch red enemies,as they give you an instant game over and can't be defeated.Collect fuel cans to earn extra lives.Each level lasts 1 minute.Remember,you only get 3 lives.Good luck!", DialogLayout.Bottom)
 scene.setBackgroundImage(img`
     ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
     ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
